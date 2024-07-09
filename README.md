@@ -6,10 +6,6 @@ Este es un proyecto de consola desarrollado en Java utilizando Spring Boot y Pos
 - [Descripción](#descripción)
 - [Funcionalidades](#funcionalidades)
 - [Requisitos](#requisitos)
-- [Configuración](#configuración)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
 
 ## Descripción
 
